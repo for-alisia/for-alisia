@@ -27,3 +27,5 @@ I love programming and creating something that matters. I try to be aware of the
 - Feel free to write me via email: elenaromanova.pro@gmail.com
 
 - Follow me on [Twitter](https://twitter.com/for_alisia)
+
+![](https://visitor-badge.glitch.me/badge?page_id=for-alisia.for-alisia)
