@@ -29,3 +29,8 @@ I love programming and creating something that matters. I try to be aware of the
 - Follow me on [Twitter](https://twitter.com/for_alisia)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=for-alisia.for-alisia)
+
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/525?logoColor=white%26project=%26recentMS=0%26showProject=false)
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/525?logoColor=white%26project=%26recentMS=2592000000%26showProject=false)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=for-alisia&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide=contribs,prs,stars" />
