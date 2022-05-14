@@ -2,7 +2,7 @@
 
 #### My name is Elena. And I am a JS developer.
 
-I love programming and creating something that matters. I try to be aware of the most trendy and modern JS technologies and do not stop to learning and discovering new features every day.
+I love programming and creating something that matters. I try to be aware of the most trendy and modern JS technologies and do not stop learning and discovering new features every day.
 
 ### My experience:
 
@@ -13,7 +13,7 @@ I've been working as JavaScript Developer since 2016 in different business domai
 - Financial Institutions (internal bank aplication)
 - Public Institutions (internal system to manage applications)
 
-### My responsibilities at my projects:
+### My responsibilities at the projects:
 
 - To write clean and effecient JS code
 - Create nice layouts with HTML and CSS (and not only with divs and spans :smirk:)
@@ -54,7 +54,4 @@ I've been working as JavaScript Developer since 2016 in different business domai
 
 ![](https://visitor-badge.glitch.me/badge?page_id=for-alisia.for-alisia)
 
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=for-alisia&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide=contribs,prs,stars" />
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=for-alisia&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=for-alisia&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
