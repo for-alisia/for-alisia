@@ -1,8 +1,26 @@
 ### Hi, everyone 👋
 
-#### My name is Lena. And I am a JS developer.
+#### My name is Elena. And I am a JS developer.
 
 I love programming and creating something that matters. I try to be aware of the most trendy and modern JS technologies and do not stop to learning and discovering new features every day.
+
+### My experience:
+
+I've been working as JavaScript Developer since 2016 in different business domains:
+
+- ECommerce (online store)
+- Retail (internal system to manage the orders from vendors)
+- Financial Institutions (internal bank aplication)
+- Public Institutions (internal system to manage applications)
+
+### My responsibilities at my projects:
+
+- To write clean and effecient JS code
+- Create nice layouts with HTML and CSS (and not only with divs and spans :smirk:)
+- Conduct Code Reviews
+- Write unit, component and e2e tests (yes, even Cypress tests for UI testing layer, and automate this process as well :blush:)
+- To share knowledge with new colleagues and Junior Developers
+- Follow Agile principles
 
 #### Preferred Stack:
 
@@ -30,13 +48,13 @@ I love programming and creating something that matters. I try to be aware of the
 
 #### 📫 How to reach me:
 
-- Feel free to write me via email: elenaromanova.pro@gmail.com
+- Feel free to write me via email: elenaromanova.pl@gmail.com
 
 - Follow me on [Twitter](https://twitter.com/for_alisia)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=for-alisia.for-alisia)
 
-![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/525?logoColor=white%26project=%26recentMS=0%26showProject=false)
-![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/525?logoColor=white%26project=%26recentMS=2592000000%26showProject=false)
-
+<p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=for-alisia&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide=contribs,prs,stars" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=for-alisia&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
+</p>
