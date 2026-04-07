@@ -1,6 +1,17 @@
 
 # Hi, I'm Elena 👋
 
+![](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Spring-20232A?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Kafka-20232A?style=for-the-badge&logo=apachekafka&logoColor=white)
+![](https://img.shields.io/badge/GitLab-20232A?style=for-the-badge&logo=gitlab&logoColor=white)
+![](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Azure-20232A?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![](https://img.shields.io/badge/Flowable-20232A?style=for-the-badge&logoColor=white)
+
 I’m a software engineer and technical delivery lead based in Kraków, Poland.
 
 These days I’m most interested in the space where **engineering, architecture, delivery systems, and AI-assisted development** meet.
@@ -11,8 +22,6 @@ I like building things that make engineering work more reliable:
 - less chaos in delivery
 - more useful automation
 - practical AI workflows that improve control instead of adding noise
-
----
 
 ## What I do
 
@@ -32,21 +41,6 @@ I like building things that make engineering work more reliable:
 - documentation-first execution
 - traceable decision-making
 
-
-## Tech I work with
-
-![](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/Spring-20232A?style=for-the-badge&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Kafka-20232A?style=for-the-badge&logo=apachekafka&logoColor=white)
-![](https://img.shields.io/badge/GitLab-20232A?style=for-the-badge&logo=gitlab&logoColor=white)
-![](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Azure-20232A?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![](https://img.shields.io/badge/Flowable-20232A?style=for-the-badge&logoColor=white)
-
-
 ## Writing
 
 I write about:
@@ -59,17 +53,6 @@ I write about:
 📚 Medium: **https://medium.com/@elenaromanova.pl**  
 💼 LinkedIn: **https://www.linkedin.com/in/elenaromanova-pro/**
 
----
-
-## What I care about
-
-I’m especially interested in:
-- engineering leadership
-- technical delivery
-- architecture-aware execution
-- reliable release systems
-- developer experience
-- system thinking in software teams
 
 I like messy real-world problems more than perfect toy examples.
 
