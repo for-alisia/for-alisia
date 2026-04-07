@@ -73,7 +73,7 @@ I write about practical AI use in engineering:
 - how to avoid shallow “AI magic”
 - how to design more trustworthy engineering workflows
 
-(Repo is here)[https://github.com/for-alisia/delivery-flow]
+[Repo is here](https://github.com/for-alisia/delivery-flow)
 
 ---
 
