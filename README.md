@@ -32,7 +32,6 @@ I like building things that make engineering work more reliable:
 - documentation-first execution
 - traceable decision-making
 
----
 
 ## Tech I work with
 
@@ -47,35 +46,6 @@ I like building things that make engineering work more reliable:
 ![](https://img.shields.io/badge/Azure-20232A?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![](https://img.shields.io/badge/Flowable-20232A?style=for-the-badge&logoColor=white)
 
----
-
-## Featured work
-
-### 🚀 delivery-flow / flow-orchestrator
-An experiment in **agent-orchestrated software delivery** with strong emphasis on:
-- explicit roles
-- structured handoffs
-- repository-driven workflow
-- verification and evidence
-- architectural boundaries
-- reproducibility over hype
-
-This project is part engineering sandbox, part delivery systems research.
-
----
-
-
-### 🧠 AI-assisted engineering experiments
-I write about practical AI use in engineering:
-- what works
-- what breaks
-- what needs control layers
-- how to avoid shallow “AI magic”
-- how to design more trustworthy engineering workflows
-
-[Repo is here](https://github.com/for-alisia/delivery-flow)
-
----
 
 ## Writing
 
@@ -102,8 +72,6 @@ I’m especially interested in:
 - system thinking in software teams
 
 I like messy real-world problems more than perfect toy examples.
-
----
 
 Thanks for stopping by ✨
 
